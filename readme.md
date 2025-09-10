@@ -68,3 +68,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 4. `git add` – Stage files
 - `git add file.txt` -> stage specific file
 - `git add .` -> stage all changes
+
+### 5. `git commit` – Save snapshot
+- `git commit -m "message"` --> commit staged changes with message
+- `git commit -am "message"` -> add + commit tracked files in one step
