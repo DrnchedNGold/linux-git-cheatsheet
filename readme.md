@@ -42,3 +42,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 
 ### 8. `touch` – Create empty files / update timestamp
 - `touch file.txt` -> create empty file if it doesn’t exist
+
+### 9. `cat` – View contents of files
+- `cat file.txt` -> display contents
+- `cat file1 file2 > combined.txt` -> merge files
