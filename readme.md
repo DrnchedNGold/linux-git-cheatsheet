@@ -18,3 +18,6 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 - `cd ~` -> go to home directory
 - `cd /` -> go to root directory
 - `cd -` -> go to previous directory
+
+### 3. `pwd` – Print working directory  
+- `pwd` -> show absolute path of current location
