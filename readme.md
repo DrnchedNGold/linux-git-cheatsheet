@@ -21,3 +21,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 
 ### 3. `pwd` – Print working directory  
 - `pwd` -> show absolute path of current location
+
+### 4. `cp` – Copy files/directories  
+- `cp file1 file2` -> copy `file1` to `file2`  
+- `cp -r dir1 dir2` -> copy a directory recursively
