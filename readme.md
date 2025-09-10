@@ -25,3 +25,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 4. `cp` – Copy files/directories  
 - `cp file1 file2` -> copy `file1` to `file2`  
 - `cp -r dir1 dir2` -> copy a directory recursively
+
+### 5. `mv` – Move or rename files  
+- `mv file1 dir/` -> move file into directory  
+- `mv old.txt new.txt` -> rename file
