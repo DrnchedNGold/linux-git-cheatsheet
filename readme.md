@@ -51,3 +51,11 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 - `grep "pattern" file.txt` -> search for "pattern"
 - `grep -i "pattern" file.txt` -> case-insensitive
 - `grep -r "pattern" dir/` -> recursive search in directory
+
+---
+
+## Git Commands  
+
+### 1. `git init` – Initialize repository
+- `git init` -> create new local repo
+
