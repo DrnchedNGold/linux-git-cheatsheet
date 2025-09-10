@@ -39,3 +39,6 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 7. `mkdir` – Create directories
 - `mkdir mydir` -> create new directory
 - `mkdir -p a/b/c` -> create parent directories if not existing
+
+### 8. `touch` – Create empty files / update timestamp
+- `touch file.txt` -> create empty file if it doesn’t exist
