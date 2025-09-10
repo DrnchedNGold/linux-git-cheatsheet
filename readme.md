@@ -59,3 +59,6 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 1. `git init` – Initialize repository
 - `git init` -> create new local repo
 
+### 2. `git clone` – Clone a repository
+- `git clone git@github.com:user/repo.git` -> clone via SSH
+
