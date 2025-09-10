@@ -35,3 +35,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 - `rm file.txt` -> delete file
 - `rm -r dir/` -> delete directory recursively
 - `rm -rf dir/` -> force delete (skip prompts)
+
+### 7. `mkdir` – Create directories
+- `mkdir mydir` -> create new directory
+- `mkdir -p a/b/c` -> create parent directories if not existing
