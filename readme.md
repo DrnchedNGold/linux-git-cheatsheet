@@ -46,3 +46,8 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 9. `cat` – View contents of files
 - `cat file.txt` -> display contents
 - `cat file1 file2 > combined.txt` -> merge files
+
+### 10. `grep` – Search text patterns
+- `grep "pattern" file.txt` -> search for "pattern"
+- `grep -i "pattern" file.txt` -> case-insensitive
+- `grep -r "pattern" dir/` -> recursive search in directory
