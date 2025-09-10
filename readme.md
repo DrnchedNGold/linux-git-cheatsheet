@@ -65,4 +65,6 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 3. `git status` – Check repo status
 - `git status` -> see staged, unstaged, and untracked files
 
-
+### 4. `git add` – Stage files
+- `git add file.txt` -> stage specific file
+- `git add .` -> stage all changes
