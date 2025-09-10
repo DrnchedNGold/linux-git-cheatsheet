@@ -62,3 +62,7 @@ This cheat sheet covers essential Linux and Git commands, along with common and 
 ### 2. `git clone` – Clone a repository
 - `git clone git@github.com:user/repo.git` -> clone via SSH
 
+### 3. `git status` – Check repo status
+- `git status` -> see staged, unstaged, and untracked files
+
+
